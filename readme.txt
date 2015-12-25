@@ -7,3 +7,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 暂存区概念说明
 创建branch很快
+Creating a new branch feature1 is quick AND simple.
